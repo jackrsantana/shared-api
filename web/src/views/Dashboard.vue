@@ -1,0 +1,3 @@
+<template>
+  <h1>Seja bem Vindo</h1>
+</template>
